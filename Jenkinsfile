@@ -2,7 +2,7 @@ pipeline {
 
     environment {
             registry = "mattpow35/cs204calcapp"
-            registryCredential = 'dockerhub'
+            registryCredential = 'dockerub'
             dockerImage=''
     }
 
